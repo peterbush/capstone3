@@ -14,7 +14,7 @@
 	$host = "localhost";
   	$user = "xxxxx";
   	$password = "xxxxx";
-  	$port = "3306";
+  	$port = "xxxxx";
   	$database = "xxxxx";
 
   	if (!($link = mysqli_connect("$host:$port","$user","$password"))) {
