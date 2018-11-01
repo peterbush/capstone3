@@ -13,7 +13,7 @@
 	// error_reporting(1);
 	$host = "localhost";
   	$user = "wight1";
-  	$password = "azalea";
+  	$password = " ";
   	$port = "3306";
   	$database = "wight1";
 
@@ -41,6 +41,7 @@
     state VARCHAR(2) NOT NULL,
     zip INT(5) NOT NULL,
     department VARCHAR(50) NOT NULL,
+    desiredsalary VARCHAR(6) NOT NULL,
     subdate DATETIME NOT NULL,
 	PRIMARY KEY (id)
     )";
