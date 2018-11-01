@@ -12,10 +12,10 @@
 
 	// error_reporting(1);
 	$host = "localhost";
-  	$user = "wight1";
-  	$password = "azalea";
-  	$port = "3306";
-  	$database = "wight1";
+  	$user = "xxxxx";
+  	$password = "xxxxx";
+  	$port = "xxxxx";
+  	$database = "xxxxx";
 
   	if (!($link = mysqli_connect("$host:$port","$user","$password"))) {
 		print("couldn't connect: " . '&nbsp;');
