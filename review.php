@@ -93,11 +93,11 @@
 	error_reporting(E_ALL);
 
 	// error_reporting(1);
-	$host = "localhost";
-  	$user = "wight1";
-  	$password = "azalea";
-  	$port = "3306";
-  	$database = "wight1";
+	$host = "xxx";
+  	$user = "xxx";
+  	$password = "xxx";
+  	$port = "xxx";
+  	$database = "xxx";
 
   	if (!($link = mysqli_connect("$host:$port","$user","$password"))) {?>
 		<div class="container">
