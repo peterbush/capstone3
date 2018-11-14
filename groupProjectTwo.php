@@ -2,7 +2,7 @@
 <html lang="eng">
 <head>
 <title>Grading System Database</title>
-<mega charset="utf-8">
+<meta charset="utf-8">
 </head>
 
 <body>
